@@ -7,7 +7,7 @@
 - I also work on [Foundatio](https://github.com/FoundatioFx/Foundatio)
 - [My Website](https://ericjsmith.com)
 
-### Blogs posts
+### Exceptionless News
 <!-- BLOG-POST-LIST:START -->
 - [How To Use Error Boundaries in React](/news/2021/2021-08-16-how-to-use-error-boundaries-in-react/)
 - [Navigating The Exceptionless World of Go](/news/2021/2021-04-19-navigating-the-exceptionless-world-of-go/)
