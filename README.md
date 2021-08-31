@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eric</h1>
+<h1 align="center">Eric J. Smith</h1>
 <h3 align="center">A passionate, detail oriented fullstack developer and entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejsmith" alt="ejsmith" /> </p>
