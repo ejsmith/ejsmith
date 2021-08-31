@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejsmith" alt="ejsmith" /> </p>
 
-- 🔭 I’m the founder of [CodeSmith Tools](https://github.com/CodeSmithTools) and [Exceptionless](https://github.com/exceptionless/Exceptionless)
-- 🔭 I also work on [Foundatio](https://github.com/FoundatioFx/Foundatio)
-- 🔭 More about me [My Website](https://ericjsmith.com)
+- I’m the founder of [CodeSmith Tools](https://github.com/CodeSmithTools) and [Exceptionless](https://github.com/exceptionless/Exceptionless)
+- I also work on [Foundatio](https://github.com/FoundatioFx/Foundatio)
+- [My Website](https://ericjsmith.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
