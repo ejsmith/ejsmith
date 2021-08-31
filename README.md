@@ -9,4 +9,4 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejsmith&show_icons=true" alt="ejsmith" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejsmith&show_icons=true&include_all_commits=true&count_private=true" alt="ejsmith" /></p>
