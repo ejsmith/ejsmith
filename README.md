@@ -5,7 +5,7 @@
 
 - I’m the founder of [CodeSmith Tools](https://github.com/CodeSmithTools) and [Exceptionless](https://github.com/exceptionless/Exceptionless)
 - I also work on [Foundatio](https://github.com/FoundatioFx/Foundatio)
-- [My Website](https://ericjsmith.com)
+- Here is [My Website](https://ericjsmith.com)
 
 ### Exceptionless News
 <!-- BLOG-POST-LIST:START -->
