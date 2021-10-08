@@ -9,11 +9,11 @@
 
 ### Exceptionless News
 <!-- BLOG-POST-LIST:START -->
+- [How To Monitor Events in Your Svelte App](/news/2021/2021-10-04-how-to-monitor-events-in-your-svelte-app/)
 - [Associate Users With Events To Track Event Impact](/news/2021/2021-09-20-associate-users-with-events-to-track-event-impact/)
 - [Announcing The New Exceptionless JavaScript Client](/news/2021/2021-09-09-announcing-the-new-exceptionless-javascript-client/)
 - [How To Use Error Boundaries in React](/news/2021/2021-08-16-how-to-use-error-boundaries-in-react/)
 - [Navigating The Exceptionless World of Go](/news/2021/2021-04-19-navigating-the-exceptionless-world-of-go/)
-- [How To Monitor Events in Swift](/news/2021/2021-04-02-how-to-monitor-events-in-swift/)
 <!-- BLOG-POST-LIST:END -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejsmith&show_icons=true&include_all_commits=true&count_private=true" alt="ejsmith" /></p>
